@@ -138,6 +138,27 @@
 	.ps-timeline-sec {
 		padding-left: 15px;
 	}
+	.partner_child {
+		width: 33%;
+	}
+	#intro_xtp {
+		padding: 40px 0; 
+	}
+	.intro_xtp_box {
+		margin-bottom: 40px;
+	}
+	.intro_mission_bg {
+		padding: 60px 0;
+	}
+	.intro_mission_item {
+		width: 50%;
+	}
+	.intro_mission_item h4 {
+		font-size: 22px;
+	}
+	.intro_application_item {
+		width: 50%;
+	}
 }
 
 /*Extra small devices (portrait phones, less than 576px)*/
@@ -145,6 +166,12 @@
 	.owl-banner .owl-nav .icon {
 		width: 32px;
 		height: 32px;
+	}
+	.navbar-brand img {
+		width: 192px;
+	}
+	.service_feature_child {
+		width: 100%;
 	}
 }
 
@@ -155,14 +182,45 @@
 	#video iframe {
 	    height: 214px;
 	}
+	.partner_child {
+	    width: 50%;
+	}
+	.intro_mission_title h3, .intro_application_title h3 {
+		font-size: 32px;
+	}
+	.intro_application_item img {
+		width: 128px;
+		height: 128px;
+	}
+	#intro_banner {
+		height: 200px;
+	}
+	.intro_banner_title h2 {
+		font-size: 32px;
+	}
+	.service_block_box h3 {
+	    font-size: 24px;
+	}
 }
 @media (max-width: 384.98px) {
 	#video iframe {
 	    height: 180px;
 	}
+	.intro_mission_item h4 {
+	    font-size: 18px;
+	}
+	.intro_xtp_box h3 {
+	    font-size: 28px;
+	}
 }
 @media (max-width: 320.98px) {
 	#video iframe {
 	    height: 164px;
+	}
+	.data_start_box h3 {
+		font-size: 22px;
+	}
+	.partner-title h3 {
+		font-size: 22px;
 	}
 }
